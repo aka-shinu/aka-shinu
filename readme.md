@@ -7,18 +7,18 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 ###
 
 <div>
- <img  src='https://skillicons.dev/icons?i=js'>&nbsp;
- <img  src='https://skillicons.dev/icons?i=python'>
- <img  src='https://skillicons.dev/icons?i=mongodb'>
- <img  src='https://skillicons.dev/icons?i=jquery'>
- <img  src='https://skillicons.dev/icons?i=heroku'>
- <img  src='https://skillicons.dev/icons?i=git'>
- <img  src='https://skillicons.dev/icons?i=selenium'>
- <img  src='https://skillicons.dev/icons?i=ps'>
- <img  src='https://skillicons.dev/icons?i=ae'>
- <img  src='https://skillicons.dev/icons?i=azure'>
- <img  src='https://skillicons.dev/icons?i=docker'>
- <img  src='https://skillicons.dev/icons?i=css'>
+ <img  src='https://skillicons.dev/icons?i=js'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=python'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=mongodb'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=jquery'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=heroku'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=git'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=selenium'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=ps'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=ae'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=azure'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=docker'>&nbsp;&nbsp;&nbsp;&nbsp;
+ <img  src='https://skillicons.dev/icons?i=css'>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
