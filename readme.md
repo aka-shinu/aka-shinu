@@ -5,7 +5,9 @@ Hello, My name is Anmol geek, from India. I am passionate about coding and want 
 I love to Chat, to do Designing (learning). I would also love to help you out in your projects.
 </div>
 
-<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif" width="300" align="center">
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif" width="300" >
+</div>
 
 
 
