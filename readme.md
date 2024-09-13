@@ -30,7 +30,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 </div>&nbsp;&nbsp;
 <div align='center'>
 <img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/src/location.png" width="10px">&nbsp;
-<span>NEW DELHI, INDIA</span>
+<span><a href='https://en.wikipedia.org/wiki/New_Delhi'>NEW DELHI, INDIA</a></span>
 </div>
 
 
