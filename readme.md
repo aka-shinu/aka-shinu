@@ -7,7 +7,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 ###
 
 <div>
- <img  src='https://skillicons.dev/icons?i=js'>
+ <img  src='https://skillicons.dev/icons?i=js'>&nbsp;
  <img  src='https://skillicons.dev/icons?i=python'>
  <img  src='https://skillicons.dev/icons?i=mongodb'>
  <img  src='https://skillicons.dev/icons?i=jquery'>
