@@ -14,7 +14,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 ###
 ###
 
-<span>
+<div style='width: 400px'>
  <img  src='https://skillicons.dev/icons?i=js'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=python'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=mongodb'>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,7 +27,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
  <img  src='https://skillicons.dev/icons?i=azure'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=docker'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=css'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span>
+</div>
 
 
     
