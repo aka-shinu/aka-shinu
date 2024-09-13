@@ -45,14 +45,13 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 
 ###
 
->*I love to create and solve problems because it pushes me to think critically, explore new ideas, and enhance my problem-solving skills continuously.*
-
 
 
 <div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stat-me-f832c0eb9898.herokuapp.com?user=aka-shinu" alt="GitHub Streak" /></a>
 </div>
 
+>*I love to create and solve problems because it pushes me to think critically, explore new ideas, and enhance my problem-solving skills continuously.*
 ### Connect with me
 
 &nbsp;&nbsp;&nbsp;<a href="instagram.com/a__4__anmol_"><img src="https://img.shields.io/badge/A4ANMOL-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
