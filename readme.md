@@ -28,11 +28,19 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
  <img  src='https://skillicons.dev/icons?i=docker'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=css'>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>&nbsp;&nbsp;
+
 <div align='center'>
 <span><a href='https://en.wikipedia.org/wiki/New_Delhi'>NEW DELHI, INDIA</a></span>
+</div>&nbsp;
+<div>&#9996;&nbsp; Persuing Btech in CS AI from <b>UNIVERSITY SCHOOL OF INFORMATION, COMMUNICATION & TECHNOLOGY</b>
 </div>
-
-
-
+<div align="center">|</div>
+<div align="center">|</div>
+<div align="center">&#128373;&nbsp; I love to <b>back engineer.</b>
+</div>
+<div align="center">|</div>
+<div align="center">|</div>
+<div align="center">&#128186;&nbsp; Why hustle when you can be a Lazy Lad?.</b>
+</div>
 
     
