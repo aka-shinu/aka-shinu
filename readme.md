@@ -1,5 +1,5 @@
 <h1 align="center">स्वागतम्</h1>
-<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.mov">
+<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif">
 
 
 <span style='opacity: 0.8; font-size: .9rem'> 
