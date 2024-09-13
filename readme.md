@@ -3,7 +3,7 @@
 Hello, My name is Anmol geek, from India. I am passionate about coding and want to explore all the sectors of coding to their core.
 I love to Chat, to do Designing (learning). I would also love to help you out in your projects.
 </span>
-&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div>
  <img  src='https://skillicons.dev/icons?i=js'>
  <img  src='https://skillicons.dev/icons?i=python'>
