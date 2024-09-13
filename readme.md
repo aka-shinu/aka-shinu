@@ -42,12 +42,10 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 <div align="center">|</div>
 <div align="center">&#128186;&nbsp; Why hustle when you can be a Lazy Lad?.</b>
 </div>
-
-###
-
-
-
-<div>
+<div align="center">|</div>
+<div align="center">|</div>
+<div align="center">|</div>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stat-me-f832c0eb9898.herokuapp.com?user=aka-shinu" alt="GitHub Streak" /></a>
 </div>
 
