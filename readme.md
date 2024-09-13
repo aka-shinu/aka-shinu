@@ -1,14 +1,12 @@
 <h1 align="center">स्वागतम्</h1>
 
 
-<div>
-    <div> 
+<div> 
 Hello, My name is Anmol geek, from India. I am passionate about coding and want to explore all the sectors of coding to their core.
 I love to Chat, to do Designing (learning). I would also love to help you out in your projects.
-    </div>
-    <div align="center"> 
-    <img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif" width="400" >
-    </div>
+</div>
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif" width="400" >
 </div>
 
 
@@ -16,7 +14,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 ###
 ###
 
-<div width="80vw">
+<span>
  <img  src='https://skillicons.dev/icons?i=js'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=python'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=mongodb'>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +27,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
  <img  src='https://skillicons.dev/icons?i=azure'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=docker'>&nbsp;&nbsp;&nbsp;&nbsp;
  <img  src='https://skillicons.dev/icons?i=css'>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</span>
 
 
     
