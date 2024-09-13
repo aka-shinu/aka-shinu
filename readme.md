@@ -1,12 +1,13 @@
 <h1 align="center">स्वागतम्</h1>
-<div align='center'>
-<span><a href='https://aka-shinu.tech'>PORTFOLIO</a></span>
-</div>&nbsp;
+
 
 <div> 
 Hello, My name is Anmol geek, from India. I am passionate about coding and want to explore all the sectors of coding to their core.
 I love to Chat, to do Designing (learning). I would also love to help you out in your projects.
-</div>
+</div>&nbsp;
+<div align='center'>
+<span><a href='https://aka-shinu.tech'>PORTFOLIO</a></span>
+</div>&nbsp;
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/src/man.gif" width="400" >
 </div>
