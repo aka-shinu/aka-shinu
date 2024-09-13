@@ -6,7 +6,7 @@ Hello, My name is Anmol geek, from India. I am passionate about coding and want 
 I love to Chat, to do Designing (learning). I would also love to help you out in your projects.
 </div>
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif" width="400" >
+<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/src/man.gif" width="400" >
 </div>
 
 
@@ -29,7 +29,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
  <img  src='https://skillicons.dev/icons?i=css'>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>&nbsp;&nbsp;
 <div align='center'>
-
+<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/src/location.png" width="10px">&nbsp;
 <span>NEW DELHI, INDIA</span>
 </div>
 
