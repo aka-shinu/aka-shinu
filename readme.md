@@ -1,5 +1,7 @@
 <h1 align="center">स्वागतम्</h1>
-
+<div align='center'>
+<span><a href='https://aka-shinu.tech'>PORTFOLIO</a></span>
+</div>&nbsp;
 
 <div> 
 Hello, My name is Anmol geek, from India. I am passionate about coding and want to explore all the sectors of coding to their core.
@@ -54,6 +56,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 >*I love to create and solve problems because it pushes me to think critically, explore new ideas, and enhance my problem-solving skills continuously.*
 ### Connect with me
 
-&nbsp;&nbsp;&nbsp;<a href="instagram.com/a__4__anmol_"><img src="https://img.shields.io/badge/A4ANMOL-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
-<a href="t.me/letharch"><img src="https://img.shields.io/badge/LETHARCH-2CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+&nbsp;&nbsp;&nbsp;<a href="https://aka-shinu.tech"><img src="https://img.shields.io/badge/akashinu.tech-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"> </a>
+<a href="https://instagram.com/a__4__anmol_"><img src="https://img.shields.io/badge/A4ANMOL-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
+<a href="https://t.me/letharch"><img src="https://img.shields.io/badge/LETHARCH-2CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </div>
