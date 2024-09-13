@@ -1,14 +1,14 @@
 <h1 align="center">स्वागतम्</h1>
 
+
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif" width="400" >
+</div>
+
 <div style='opacity: 0.8; font-size: .9rem'> 
 Hello, My name is Anmol geek, from India. I am passionate about coding and want to explore all the sectors of coding to their core.
 I love to Chat, to do Designing (learning). I would also love to help you out in your projects.
 </div>
-
-<div align="center"> 
-<img src="https://raw.githubusercontent.com/aka-shinu/aka-shinu/master/man.gif" width="300" >
-</div>
-
 
 
 ###
