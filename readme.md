@@ -55,3 +55,6 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 &nbsp;&nbsp;&nbsp;<a href="instagram.com/a__4__anmol_"><img src="https://img.shields.io/badge/A4ANMOL-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
 <a href="t.me/letharch"><img src="https://img.shields.io/badge/LETHARCH-2CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 </div>
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aka-shinu" alt="Gift's LangStat" />
+</div>
