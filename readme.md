@@ -49,7 +49,7 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 <div align="center">|</div>
 <div align="center">|</div>
 <div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=aka-shinu)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aka-shinu"/><br/>
 </div>
 
 ###
