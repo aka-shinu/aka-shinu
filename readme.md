@@ -50,7 +50,6 @@ I love to Chat, to do Designing (learning). I would also love to help you out in
 <div align="center">|</div>
 <div align="center">
  <a href="https://github-readme-streak-stats.herokuapp.com/?user=aka-shinu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aka-shinu"></a>&nbsp;
- <a href="https://github-readme-stats.vercel.app/api?username=aka-shinu&include_all_commits=true&count_private=true"><img src="https://github-readme-stats.vercel.app/api?username=aka-shinu&include_all_commits=true&count_private=true"></a>&nbsp;
 
 </div>
 
